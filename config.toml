@@ -1,7 +1,7 @@
-base_url = "https://zola-hallo.janbaudisch.dev"
+base_url = "https://nicholasruddick.com"
 title = "Hallo"
 
-compile_sass = true
+compile_sass = false
 
 highlight_code = false
 
@@ -15,7 +15,9 @@ iam = "I am"
 links = [
     { title = "E-Mail", url = "mailto:mail@example.org", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://github.com", icon = "github" },
-    { title = "Twitter", url = "https://twitter.com", icon = "twitter" }
+    { title = "Twitter", url = "https://twitter.com", icon = "twitter" },
+    { title = "LinkedIn", url = "https://www.linkedin.com", icon = "linkedin" },
+    { title = "Keybase", url = "https://keybase.io", icon = "keybase" }
 ]
 
 [extra.author]
