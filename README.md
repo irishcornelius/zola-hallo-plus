@@ -98,7 +98,7 @@ hover = "#333" # link hover
 ```
 
 [demo-img]: https://img.shields.io/badge/demo-live-green.svg
-[demo-url]: https://nicholasrudick.com
+[demo-url]: https://nicholasruddick.com
 [zola]: https://www.getzola.org
 [hallo-hugo]: https://github.com/EmielH/hallo-hugo
 [zola-hallo]: https://github.com/janbaudisch/zola-hallo
