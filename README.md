@@ -1,4 +1,3 @@
-[![Build Status][build-img]][build-url]
 [![Demo][demo-img]][demo-url]
 
 # Hallo
@@ -11,20 +10,20 @@
 
 ## Original
 
-This is a port of the original [hallo-hugo][hallo-hugo] theme for Hugo ([License][upstream-license]).
+This is a fork of the [zola-hallo][zola-hallo] theme for Zola, based on the original [hallo-hugo][hallo-hugo] theme for Hugo ([License][upstream-license]).
 
 ## Installation
 
 The easiest way to install this theme is to either clone it ...
 
 ```
-git clone https://github.com/janbaudisch/zola-hallo.git themes/hallo
+git clone https://github.com/irishcornelius/zola-hallo-plus.git themes/hallo
 ```
 
 ... or to use it as a submodule.
 
 ```
-git submodule add https://github.com/janbaudisch/zola-hallo.git themes/hallo
+git submodule add https://github.com/irishcornelius/zola-hallo-plus.git themes/hallo
 ```
 
 Either way, you will have to enable the theme in your `config.toml`.
@@ -98,13 +97,12 @@ foreground = "#FFF" # text and portrait border
 hover = "#333" # link hover
 ```
 
-[build-img]: https://builds.sr.ht/~janbaudisch/zola-hallo.svg
-[build-url]: https://builds.sr.ht/~janbaudisch/zola-hallo
 [demo-img]: https://img.shields.io/badge/demo-live-green.svg
-[demo-url]: https://zola-hallo.janbaudisch.dev
+[demo-url]: https://nicholasrudick.com
 [zola]: https://www.getzola.org
 [hallo-hugo]: https://github.com/EmielH/hallo-hugo
+[zola-hallo]: https://github.com/janbaudisch/zola-hallo
 [fontawesome]: https://fontawesome.com
 [fontawesome-brands]: https://fontawesome.com/icons?d=gallery&s=brands&m=free
-[upstream-license]: https://github.com/janbaudisch/zola-hallo/blob/master/upstream/LICENSE
-[config]: https://github.com/janbaudisch/zola-hallo/blob/master/config.toml
+[upstream-license]: https://github.com/irishcornelius/zola-hallo-plus/blob/master/upstream/LICENSE
+[config]: https://github.com/irishcornelius/zola-hallo-plus/blob/master/config.toml
