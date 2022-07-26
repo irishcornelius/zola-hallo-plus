@@ -7,8 +7,8 @@ demo = "https://nicholasruddick.com"
 
 [extra]
 greeting = "Hello!"
-
 iam = "I am"
+author = "Hallo"
 
 links = [
     { title = "E-Mail", url = "mailto:mail@example.org", iconset = "fas", icon = "envelope" },
@@ -17,9 +17,6 @@ links = [
     { title = "LinkedIn", url = "https://www.linkedin.com", icon = "linkedin" },
     { title = "Keybase", url = "https://keybase.io", icon = "keybase" }
 ]
-
-[extra.author]
-name = "Hallo"
 
 [extra.theme]
 background = "#6FCDBD"
