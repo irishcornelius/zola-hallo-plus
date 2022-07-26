@@ -82,7 +82,9 @@ Links show up below the introduction. They are styled with [Font Awesome][fontaw
 links = [
     { title = "E-Mail", url = "mailto:mail@example.org", iconset = "fas", icon = "envelope" },
     { title = "GitHub", url = "https://github.com", icon = "github" },
-    { title = "Twitter", url = "https://twitter.com", icon = "twitter" }
+    { title = "Twitter", url = "https://twitter.com", icon = "twitter" },
+    { title = "LinkedIn", url = "https://www.linkedin.com/in/nicholasruddick", icon = "linkedin" },
+    { title = "Keybase", url = "https://keybase.io/irishcornelius", icon = "keybase" }
 ]
 ```
 
